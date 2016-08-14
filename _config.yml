@@ -1,19 +1,4 @@
-name: chrisreedjr
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.0724
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9984897819813341
   saturation: 0.0018578290473669767
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: chrisreedjr
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Audio Stuff
 purpose: []
