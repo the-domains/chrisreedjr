@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Home
+    id: e3f9c43e-8215-4fa0-9647-7b01bbb8d1b8
+    type: content
 favicon: null
 title: Audio Stuff
 description: Recorded & Live & Created
